@@ -71,7 +71,7 @@ import NavBar from '../components/NavBar.vue'
 import FooterSection from '../components/FooterSection.vue'
 
 // IMPORTANT: Change this to your deployed backend URL later
-const API_URL = 'http://localhost:3000/api/guestbook'
+const API_URL = 'https://personal-website-finals-amber.vercel.app/'
 
 const entries = ref([])
 const newName = ref('')
