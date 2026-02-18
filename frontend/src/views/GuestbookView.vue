@@ -70,8 +70,8 @@ import axios from 'axios'
 import NavBar from '../components/NavBar.vue'
 import FooterSection from '../components/FooterSection.vue'
 
-// IMPORTANT: Change this to your deployed backend URL later
-const API_URL = 'https://personal-website-finals-amber.vercel.app/'
+// TEMPORARY — will update after backend is deployed:
+const API_URL = 'https://personalwebsitebackend-seven.vercel.app/api/guestbook'
 
 const entries = ref([])
 const newName = ref('')
