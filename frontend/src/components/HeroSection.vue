@@ -4,7 +4,7 @@
       <div class="scroll-area">
         <p class="ink-text" id="typewriter">{{ typedText }}</p>
         <div class="music-player">
-          <img src="/media/song-art.jpg" alt="Song Art" class="song-art" />
+          <img src="/media/album.jpg" alt="Song Art" class="song-art" />
           <div>
             <strong>Young and Beautiful</strong><br />
             <small>Lana Del Ray</small>
@@ -15,10 +15,10 @@
         </div>
       </div>
       <div class="portrait-box">
-        <img src="/media/portrait.png" alt="Karol Joy Portrait" class="portrait-img" />
+        <img src="/media/MAIN PIC.png" alt="Karol Joy Portrait" class="portrait-img" />
       </div>
     </div>
-    <audio ref="bgMusic" src="/media/young-and-beautiful.mp3" loop></audio>
+    <audio ref="bgMusic" src="/media/BG MUSIC.mp3" loop></audio>
   </section>
 </template>
 

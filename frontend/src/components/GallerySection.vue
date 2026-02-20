@@ -39,27 +39,27 @@ import { ref, computed } from 'vue'
 
 const galleryItems = [
   {
-    image: '/media/gallery1.jpg',
+    image: '/media/coffee.jpeg',
     title: 'Coffee Run',
     description: 'A quick coffee run captured in the golden hour light.'
   },
   {
-    image: '/media/gallery2.jpg',
+    image: '/media/family.png',
     title: 'Family: Peace',
     description: 'A peaceful moment with the people who matter most.'
   },
   {
-    image: '/media/gallery3.jpg',
+    image: '/media/flowers.jpeg',
     title: 'Creative Love',
     description: 'Love expressed through creative endeavors and artistry.'
   },
   {
-    image: '/media/gallery4.jpg',
+    image: '/media/friends.jpeg',
     title: 'Artistic View Point',
     description: 'Seeing the world through an artistic lens.'
   },
   {
-    image: '/media/gallery5.jpg',
+    image: '/media/picto.jpeg',
     title: 'Unlimited Laugh',
     description: 'Joy and laughter that knows no bounds.'
   }

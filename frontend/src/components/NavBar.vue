@@ -17,9 +17,9 @@
         <li class="dropdown">
           <a href="#">CONTACT</a>
           <ul class="dropdown-content">
-            <li><a href="https://linkedin.com" target="_blank">LINKEDIN</a></li>
+            <li><a href="https://www.linkedin.com/in/karol-joy-ronquillo-95964b242/" target="_blank">LINKEDIN</a></li>
             <li><a href="https://github.com/blitzi17" target="_blank">GITHUB</a></li>
-            <li><a href="https://instagram.com" target="_blank">INSTAGRAM</a></li>
+            <li><a href="https://www.instagram.com/bltzi_/" target="_blank">INSTAGRAM</a></li>
           </ul>
         </li>
       </ul>

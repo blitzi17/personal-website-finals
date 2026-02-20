@@ -11,7 +11,7 @@
       <div class="footer-section">
         <h3>Contact Us</h3>
         <ul>
-          <li>@student.apc.edu.ph</li>
+          <li>kmronquillo@student.apc.edu.ph</li>
           <li>+63 9155677826</li>
           <li>Manila, Philippines</li>
         </ul>
@@ -31,13 +31,13 @@
       <div class="footer-section">
         <h3>Follow Us</h3>
         <div class="social-icons">
-          <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/karol-joy-ronquillo-95964b242/" target="_blank" rel="noopener noreferrer">
             <i class="fab fa-linkedin-in"></i>
           </a>
           <a href="https://github.com/blitzi17" target="_blank" rel="noopener noreferrer">
             <i class="fab fa-github"></i>
           </a>
-          <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.instagram.com/bltzi_/" target="_blank" rel="noopener noreferrer">
             <i class="fab fa-instagram"></i>
           </a>
         </div>

@@ -5,7 +5,7 @@
     <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; padding: 0 20px;">
       <!-- Hobbies Card -->
       <div class="about-card" @click="openModal('hobbies')">
-        <img src="/media/HOB.jpg" alt="Hobbies" class="about-card-img" />
+        <img src="/media/HOB.png" alt="Hobbies" class="about-card-img" />
         <div class="about-card-overlay">
           <h3>Hobbies</h3>
           <p>View Details</p>
@@ -14,7 +14,7 @@
 
       <!-- Goals Card -->
       <div class="about-card" @click="openModal('goals')">
-        <img src="/media/GOAL.jpg" alt="Goals" class="about-card-img" />
+        <img src="/media/GOAL.png" alt="Goals" class="about-card-img" />
         <div class="about-card-overlay">
           <h3>Goals</h3>
           <p>View Details</p>
@@ -55,12 +55,12 @@ const modalDesc = ref('')
 
 const cardData = {
   hobbies: {
-    img: '/media/HOB.jpg',
+    img: '/media/HOB.png',
     title: 'Hobbies',
     desc: 'My hobbies are too many to count but i really love creating bouquets in different ways, i wish to create things that makes me happy.'
   },
   goals: {
-    img: '/media/GOAL.jpg',
+    img: '/media/GOAL.png',
     title: 'Goals',
     desc: 'I wish to create things that makes me happy and reach new heights in my creative journey.'
   },

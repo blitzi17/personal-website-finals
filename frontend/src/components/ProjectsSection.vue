@@ -24,17 +24,17 @@ const projects = [
   {
     title: 'Magtanim Ay Di Biro',
     description: 'An Arduino-based project that automatically measures the soil\'s condition and water level and adds water based on those two parameters.',
-    image: '/media/arduino.jpg'
+    image: '/media/Magtanim.jpg'
   },
   {
     title: 'JOY: Virtual Assistant',
     description: 'A Python-based system that employs voice recognition and follows order based on voice commands.',
-    image: '/media/virtual-assistant.jpg'
+    image: '/media/VA.jpg'
   },
   {
     title: 'Attendance Face Track',
     description: 'Our team built an attendance face tracker solution that will assist you with attendance tracking without any bother.',
-    image: '/media/face-track.jpg'
+    image: '/media/Facial.jpg'
   }
 ]
 </script>
