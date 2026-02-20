@@ -11,9 +11,15 @@
 
 <script setup>
 import { onMounted } from 'vue'
+import NavBar from '../components/NavBar.vue'
+import HeroSection from '../components/HeroSection.vue'
+import AboutCards from '../components/AboutCards.vue'
+import ProjectsSection from '../components/ProjectsSection.vue'
+import GallerySection from '../components/GallerySection.vue'
+import FooterSection from '../components/FooterSection.vue'
 
 onMounted(() => {
-  // Reveal text animation (from your original main.js)
+  // Reveal text animation
   const revealTitles = document.querySelectorAll('.reveal-text')
   revealTitles.forEach(title => {
     const text = title.textContent
@@ -38,10 +44,4 @@ onMounted(() => {
 
   revealTitles.forEach(t => textObserver.observe(t))
 })
-import NavBar from '../components/NavBar.vue'
-import HeroSection from '../components/HeroSection.vue'
-import AboutCards from '../components/AboutCards.vue'
-import ProjectsSection from '../components/ProjectsSection.vue'
-import GallerySection from '../components/GallerySection.vue'
-import FooterSection from '../components/FooterSection.vue'
 </script>
